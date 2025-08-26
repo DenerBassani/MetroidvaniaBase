@@ -1,6 +1,9 @@
-// Variáveis de movimento
-hsp = 0; // velocidade horizontal
-vsp = 0; // velocidade vertical
-grav = 0.5; // gravidade
-walkspd = 3; // velocidade de andar
-jumpspd = -10; // força do pulo
+// Movimento
+hsp = 0;
+vsp = 0;
+grav = 0.6;
+walkspd = 3.2;
+jumpspd = -10;
+
+// Estado
+on_ground = false; // está tocando o chão?

@@ -36,8 +36,10 @@
   "name":"MetroidvaniaBase",
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_solid_block","path":"sprites/spr_solid_block/spr_solid_block.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
